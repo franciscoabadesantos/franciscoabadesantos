@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋 I'm Francisco
 
-<!--
-**franciscoabadesantos/franciscoabadesantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### When I code, I rely on
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About me
+- Systems & Information Engineering
+- Interested in **machine learning**, **backend systems**, and **startups**
+- Based in Portugal 🇵🇹
+
+---
+
+### 📊 GitHub stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciscoabadesantos&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=franciscoabadesantos&theme=tokyonight)
+
+---
+
+### 📫 Connect with me
+- LinkedIn: _(add link)_
