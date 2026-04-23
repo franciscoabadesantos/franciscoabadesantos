@@ -1,29 +1,19 @@
-## Hi there 👋 I'm Francisco
+### Francisco Santos
 
-### When I code, I rely on
+Engineer who builds things that matter — from infrastructure at national 
+scale to ML systems running live in production.
+
+---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Python](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
 ---
 
-### 🚀 About me
-- Systems & Information Engineering
-- Interested in **machine learning**, **backend systems**, and **startups**
-- Based in Portugal 🇵🇹
-
----
-
-### 📊 GitHub stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciscoabadesantos&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=franciscoabadesantos&theme=tokyonight)
-
----
-
-### 📫 Connect with me
-- LinkedIn: _(add link)_
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscoabadesantos/)
